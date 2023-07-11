@@ -66,7 +66,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:hint="Date">
+            android:hint="Date (yyyy-mm-dd)">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/ptEtDate"
@@ -83,7 +83,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:hint="Time">
+            android:hint="Time (HH:MM)">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/ptEtTime"
